@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wubba lubba APP-APP</string>
+    <string name="search_placeholder">Search</string>
+    <string name="character_detail">Character Details</string>
+    <string name="back">Back</string>
+    <string name="species">Species: %1$s</string>
+    <string name="origin">Origin: %1$s</string>
+    <string name="episodes">Episodes:</string>
+    <string name="no_results_found">No results found for "%1$s"</string>
+    <string name="search_action">Search</string>
+</resources>

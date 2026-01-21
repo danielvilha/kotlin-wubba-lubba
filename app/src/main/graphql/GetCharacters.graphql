@@ -1,0 +1,13 @@
+query GetCharacters($page: Int, $name: String, $species: String) {
+    characters(page: $page, filter: { name: $name, species: $species }) {
+        info {
+            next # Indicates whether there is a next page.
+        }
+        results {
+            id
+            name
+            image
+            species
+        }
+    }
+}
