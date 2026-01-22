@@ -55,7 +55,7 @@ As a developer who started back in the **Android 2.3 (Gingerbread)** era, this p
 
 
 ## Screenshots
-|![Characters List](/images/Screenshot_001.png)|![Character details](/images/Screenshot_002.png)|![Search](images/Screenshot_003.png)|
+|![Characters List](/images/Screenshot_001.jpeg)|![Character details](/images/Screenshot_002.jpeg)|![Search](images/Screenshot_003.jpeg)|
 
 
 ## Author
